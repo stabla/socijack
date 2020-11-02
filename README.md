@@ -17,6 +17,6 @@ python main.py
 
 ## Issues
 
-Chromedriver: There might be some issue with the *chromedriver*. [Download the correct](https://chromedriver.chromium.org/downloads) *chromedriver* relative to your Chrome version and your OS, and replace the file in the project.
+**Chromedriver**: There might be some issue with the *chromedriver*. [Download the correct](https://chromedriver.chromium.org/downloads) *chromedriver* relative to your Chrome version and your OS, and replace the file in the project.
 
-Slow: Avoiding to be noisy without using proxies is difficult, to avoid being too "spammy", requested are slowed.
+**Slow**: Avoiding to be noisy without using proxies is difficult, to avoid being too "spammy", requested are slowed.
